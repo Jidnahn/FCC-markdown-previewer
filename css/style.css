@@ -34,6 +34,7 @@ body {
 #preview pre {
     background: white;
     padding: 5px 0 5px 5px;
+    margin-bottom: 20px;
 }
 
 pre {
